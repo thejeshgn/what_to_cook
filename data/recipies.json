@@ -1,0 +1,20 @@
+{
+  "recipies": [
+    {
+        "name":"Upittu",
+        "description":"Also called upma",
+    },
+    {
+        "name":"Chitranna",
+        "description":"Also called lemon rice",
+    },
+    {
+        "name":"Idli",
+        "description":"Simple rice idlis",
+    },
+    {
+        "name":"Rava Idli",
+        "description":"Made in Bangalore",
+    }
+  ]  
+}
