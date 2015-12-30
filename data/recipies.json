@@ -1,20 +1,36 @@
 {
   "recipies": [
     {
+        "id":"id1",
         "name":"Upittu",
         "description":"Also called upma",
+        "ingredients":"ingredients",
+        "steps":"steps",
+        "credit":"credit"
     },
     {
+        "id":"id2",
         "name":"Chitranna",
         "description":"Also called lemon rice",
+        "ingredients":"ingredients",
+        "steps":"steps",
+        "credit":"credit"
     },
     {
+        "id":"id3",
         "name":"Idli",
         "description":"Simple rice idlis",
+        "ingredients":"ingredients",
+        "steps":"steps",
+        "credit":"credit"
     },
     {
+        "id":"id4",
         "name":"Rava Idli",
         "description":"Made in Bangalore",
+        "ingredients":"ingredients",
+        "steps":"steps",
+        "credit":"credit"
     }
   ]  
 }
