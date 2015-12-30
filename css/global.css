@@ -1,0 +1,40 @@
+body {
+	/*background: #ffe7ff; */
+    font-family:'Arial';
+    font-size: 36px;
+    background: #fff;
+    height:99%;
+}
+
+h1 {
+/*color:#cd0000;*/
+color:#ff748c;
+text-align: center;
+}
+
+h2 {
+color:#8565c4;
+    
+}
+
+
+h3 {
+color:#8565c4;
+    
+}
+
+h4 {
+color:#8565c4;
+    
+}
+
+a {
+    
+    color:#3b8dbd;
+}
+
+#headlines{
+    text-align: center;
+    align-items: center; 
+    height:300px;
+}
