@@ -14,7 +14,7 @@ APP.templates = (function () {
         var i, l, output = '';
 
         if (!articles.length) {
-            return '<p><i>No recipies have been found, maybe you haven\'t <b> downloaded the list ⇓</b>?</i></p>';
+            return '<p><i>Start by downloading recipies ⇓ </i></p>';
         }
         l = articles.length
 
