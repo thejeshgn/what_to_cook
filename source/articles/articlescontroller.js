@@ -17,7 +17,7 @@ APP.articlesController = (function () {
         console.log("Getting articles");
         $.ajax({
             dataType: 'json',
-            url: '/api/articles',
+            url: 'api/articles',
             success: function (articles) {
                 console.log("sucess");
                 APP.article.deleteArticles(function () {
