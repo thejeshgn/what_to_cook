@@ -22,7 +22,7 @@ APP.templates = (function () {
         console.log(" logged i="+i);
         output = '<a href="#' + articles[i].id + '"><b>' + articles[i].name + '</b></a>';        
         output = '<h2>' + output + '</h2>';
-        output = output + ' <button id="randomButton" onclick="APP.articlesController.showArticleList()">No!</button>'
+        output = output + ' <button id="randomButton" class="myButton" onclick="APP.articlesController.showArticleList()">No!</button>'
         return  output;        
     }
 
